@@ -115,15 +115,4 @@ The template is built with a mobile-first approach and includes:
 - Touch-friendly interactions
 - Optimized images
 - Flexible layouts
-- 
-
-
-
-
-- Check the [Wix Developer Documentation](https://dev.wix.com/)
-- Review the [Astro Documentation](https://docs.astro.build/)
-
-
----
-
-Built with ❤️ using Wix Vibe, Astro, and modern web technologies.
+  

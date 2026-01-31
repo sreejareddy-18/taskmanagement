@@ -115,6 +115,7 @@ The template is built with a mobile-first approach and includes:
 - Touch-friendly interactions
 - Optimized images
 - Flexible layouts
+- 
 
 
 

@@ -116,13 +116,6 @@ The template is built with a mobile-first approach and includes:
 - Optimized images
 - Flexible layouts
 
-## 🚀 Deployment
-
-The template is configured for deployment on Cloudflare:
-
-```bash
-npm run build
-```
 
 
 

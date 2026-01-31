@@ -1,7 +1,5 @@
 
 
-A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful ecosystem.
-
 ## 🚀 Features
 
 - **Astro Framework** - Modern static site generator with server-side rendering
@@ -126,17 +124,7 @@ The template is configured for deployment on Cloudflare:
 npm run build
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests and linting
-5. Submit a pull request
-
-## 🆘 Support
-
-For support and questions:
 
 - Check the [Wix Developer Documentation](https://dev.wix.com/)
 - Review the [Astro Documentation](https://docs.astro.build/)
